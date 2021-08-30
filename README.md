@@ -25,6 +25,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://symbols.getvecta.com/stencil_97/3_tailwind-css-icon.43c02f69bf.svg"width="45" height="45"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/postgreesql.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/api-settings.png"/></a>
