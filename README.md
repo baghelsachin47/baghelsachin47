@@ -10,7 +10,7 @@ src="https://img.shields.io/github/followers/thunderbolt181?logo=github&style=fo
 
 - 🔭 I’m currently working on **Discord Bot**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Data Structure and Algorithms**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
