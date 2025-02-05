@@ -3,8 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachin Baghel</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
-<a href="https://www.github.com/thunderbolt181" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/thunderbolt181?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
+<a href="https://www.github.com/baghelsachin47" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/baghelsachin47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
 
 ## 🙋‍♂️ About Me
 
@@ -38,4 +38,4 @@ src="https://img.shields.io/github/followers/thunderbolt181?logo=github&style=fo
 
 ## Socials
 
-<p align="left"> <a href="https://www.github.com/thunderbolt181" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16436911/thunder-bolt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/baghelsachin47" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16436911/thunder-bolt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
